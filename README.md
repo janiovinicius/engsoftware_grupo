@@ -8,3 +8,4 @@ Descrição História: Um super herói de outro planeta é enviado para a terra 
 
 Objetivo: Criar uma história em quadrinhos de forma colaborativa, em equipe.
 
+Ferramentas: Github Projects & Github Issues
